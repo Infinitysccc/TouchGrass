@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\internal",
+    "\\internal\\db",
+    "\\internal\\handlers",
+    "\\internal\\services",
+    "\\models"
+  ],
+  "SelectedNode": "\\models\\auth_user.go",
+  "PreviewInSolutionExplorer": false
+}
