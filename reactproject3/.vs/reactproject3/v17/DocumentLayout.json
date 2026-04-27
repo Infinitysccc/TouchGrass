@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\VitaminDTracker.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\VitaminDTracker.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Help.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Help.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\api\\vitaminD.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\vitaminD.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\LoginPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\LoginPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\GetStarted.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\GetStarted.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\HeaderPage.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\HeaderPage.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\utils\\calculateVitaminD.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\calculateVitaminD.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\theme.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\theme.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Settings.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Settings.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\reactproject3.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reactproject3.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VitaminDTracker.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\VitaminDTracker.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\VitaminDTracker.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\VitaminDTracker.tsx",
+              "RelativeToolTip": "src\\pages\\VitaminDTracker.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-02T00:55:24.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetStarted.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\GetStarted.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\GetStarted.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\GetStarted.tsx",
+              "RelativeToolTip": "src\\pages\\GetStarted.tsx",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-01T22:42:55.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-25T22:46:23.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\LoginPage.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\LoginPage.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\LoginPage.tsx",
+              "RelativeToolTip": "src\\pages\\LoginPage.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-28T02:41:49.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Help.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Help.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Help.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Help.tsx",
+              "RelativeToolTip": "src\\pages\\Help.tsx",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-25T23:27:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vitaminD.ts",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\api\\vitaminD.ts",
+              "RelativeDocumentMoniker": "src\\api\\vitaminD.ts",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\api\\vitaminD.ts",
+              "RelativeToolTip": "src\\api\\vitaminD.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-26T23:09:06.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Profile.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Profile.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Profile.tsx",
+              "RelativeToolTip": "src\\pages\\Profile.tsx",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-25T23:25:09.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeaderPage.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\HeaderPage.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\HeaderPage.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\HeaderPage.tsx",
+              "RelativeToolTip": "src\\pages\\HeaderPage.tsx",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwKAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-28T06:57:19.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "calculateVitaminD.ts",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\utils\\calculateVitaminD.ts",
+              "RelativeDocumentMoniker": "src\\utils\\calculateVitaminD.ts",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\utils\\calculateVitaminD.ts",
+              "RelativeToolTip": "src\\utils\\calculateVitaminD.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-26T00:50:00.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-27T00:23:07.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "theme.ts",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\theme.ts",
+              "RelativeDocumentMoniker": "src\\theme.ts",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\theme.ts",
+              "RelativeToolTip": "src\\theme.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-27T00:22:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Dashboard.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Dashboard.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Dashboard.tsx",
+              "RelativeToolTip": "src\\pages\\Dashboard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-25T23:24:50.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T22:44:11.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T22:53:03.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "src\\assets\\react.svg",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\assets\\react.svg",
+              "RelativeToolTip": "src\\assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQTSURBVEhLlZRtSJtXFMfvY57YWpUEs7xs07WzrgGroAY2pqhUZUOmFaJs4AvCtKS4Mlg/7av9aPdl/SA4mVsHfuiw2oHMOEW0vkVFKxg3iUyFtqZNNFWTLW8md\u002Bdcnyf6mJiuPwj3f8659577nHNzORIDk8l0R6fTfS2Yr8NrsViMw8PDs4J9DKU0KkFbW9t3arX6NgegDXOoqBHRPukHubu0tHRzZ2fnFZroE5EkyMrK0jU0NGyiFvcUNmIaAZPFcAR40HJhjphMqsnHN24Q/vx76ODlcpKamooykhm3Od5esL17i64/vn\u002BUnZ2tMRqNEzKZTH8UjYbjvuiCPIL1/wmTX00yFJAkva6u7nFCQsL7aEd/wedddKarNToQQyP\u002B4CG9dutnDhJEfHl5eZdramomYNq7p9cmiEIckbM0gvZplpeX/\u002B7s7LzU3d2dBM2eX11dpS6Xi8JNnOZxAmbExUr3FKdz/kS2tTepO\u002BXDmF8AxEzidDoPW1paPistLb2iVCrZEliazb5ARHkwRi74bDBOCJ43Q6VSXXS73fzs7Czp6\u002Bsj7e3tX0lKhCd/rm2jdvWXb1QikY6OjnuDg4PWlZUV6vP5aElJSZmkREG5lnO8VS8py77HRxUp519bIqSystJQVlaWDrXnFAoFulrjNtnjDdBv7plJKBRmfgRjZ5Gbm1uVkZGRDv9oOjk5SXt6em6xBOJpcdzbD0T0w/E/ubUtJxlZ2ECTgbGz6O/vv9vb22sZGxvjbDYbB81OlzTZ6z0kP95fI8FgmHj9QfJg1Mr8v5iXSTgc9/AMrVb7dn5\u002BvhpKRZqbmwn8y7\u002BVJJiZe0l2XX4yv\u002Bgkjx6vkT2Pj/m37Htk/MkW0/EoKipqLCgouCyHJ8dqtZKBgYF21mSsbSAQJtOWF6zM41PbZM65RiHAFuKE\u002B78/IdcKLh3ZZzA6Otq9vr5\u002BPRgM5mM1k5OTQ5EeWBYcUKIQSs7meEF29//lMMBWwrj\u002BzMVNrzyN2wNcq9frkysqKrjGxkauvr7\u002BDkuANZ\u002BasbNJcF/IU4\u002BT6dPgV8SjvLy8tbCw8EpaWhrZ3NwkZrP5Lkswv\u002Bigbk\u002BQleql9xX1hwKsLOyHCHp1w0EX/tpmrtMUFxd/xPP8P0NDQ89GRkYovkd2u13GeqD/QMldNKXiZpw35CeHYQPTGANOapKSlCg05pja2lpjTk7OA6gQr9FoKNwmNh/OdBuf6zDouLWNQQiea3a46urqT\u002BHm/Aabn0MbNpU\u002B9USjVxH\u002BnBIdCoUy8WrO1SLUcfG5HWR34wCehHfg3/sDeC4cBaKRnDwzM1PV1NT0HGSi5BSCRkT7pF/QIZD4puBtYmVkGsVJqqqqKg0Gw0OYlIS2sDhugkAgMAfP8yfwPBywSREI\u002BQ810l9wqYO0FgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-26T07:46:22.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.tsx",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Settings.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Settings.tsx",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\pages\\Settings.tsx",
+              "RelativeToolTip": "src\\pages\\Settings.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-25T23:27:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "reactproject3.esproj",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\reactproject3.esproj",
+              "RelativeDocumentMoniker": "reactproject3.esproj",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\reactproject3.esproj",
+              "RelativeToolTip": "reactproject3.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-26T00:41:35.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T06:54:36.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\vite.config.ts",
+              "RelativeDocumentMoniker": "vite.config.ts",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\vite.config.ts",
+              "RelativeToolTip": "vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-26T06:52:46.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-25T22:56:07.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\2025_2026_SchoolYear\\vitamind_tracker\\reactproject3\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-25T22:54:03.537Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,77 +1,101 @@
+// src/data/mockDeviceData.ts
+//
+// PURPOSE: Provides realistic-looking fallback data so the Dashboard renders
+// even when the real UV bracelet is not connected.
+//
+// WHEN THE REAL DEVICE IS READY:
+//   Replace the exported values with live API/BLE calls inside Dashboard.tsx.
+//   The shape of DeviceReading must stay the same so the Dashboard UI
+//   doesn't need changes — only the data source changes.
+
+export type BraceletStatus = "Green" | "Yellow" | "Red" | "Disconnected";
+
 export type DeviceReading = {
-  timestamp: string;
-  uvIndex: number;
-  sunlightMinutes: number;
-  estimatedSunIU: number;
-  dietaryIU: number;
-  supplementIU: number;
-  braceletStatus: "Low" | "Partial" | "Goal met";
+  timestamp: string;      // ISO 8601 string, e.g. "2026-03-25T14:30:00"
+  uvIndex: number;        // 0–11+
+  estimatedSunIU: number; // IU of vitamin D synthesised from sunlight today
+  dietaryIU: number;      // IU logged from food (synced from profile)
+  supplementIU: number;   // IU from supplements (synced from profile)
+  braceletStatus: BraceletStatus;
 };
 
+// ─── Today's most recent reading ────────────────────────────────────────────
+
 export const latestDeviceReading: DeviceReading = {
-  timestamp: "2026-03-24T18:30:00Z",
-  uvIndex: 5.8,
-  sunlightMinutes: 18,
-  estimatedSunIU: 420,
-  dietaryIU: 180,
-  supplementIU: 400,
-  braceletStatus: "Partial",
+  timestamp: new Date().toISOString(),
+  uvIndex: 0,
+  estimatedSunIU: 0,
+  dietaryIU: 0,
+  supplementIU: 0,
+  braceletStatus: "Red",
 };
+
+// ─── Past 7 days of daily readings (newest last) ────────────────────────────
+// Each entry represents the end-of-day summary for that date.
+
+function daysAgo(n: number): string {
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  d.setHours(20, 0, 0, 0);
+  return d.toISOString();
+}
 
 export const weeklyDeviceReadings: DeviceReading[] = [
   {
-    timestamp: "2026-03-18T18:00:00Z",
-    uvIndex: 3.2,
-    sunlightMinutes: 10,
-    estimatedSunIU: 180,
-    dietaryIU: 220,
+    timestamp: daysAgo(6),
+    uvIndex: 2.1,
+    estimatedSunIU: 140,
+    dietaryIU: 100,
     supplementIU: 400,
-    braceletStatus: "Low",
+    braceletStatus: "Red",
   },
   {
-    timestamp: "2026-03-19T18:00:00Z",
-    uvIndex: 4.1,
-    sunlightMinutes: 14,
+    timestamp: daysAgo(5),
+    uvIndex: 5.8,
+    estimatedSunIU: 520,
+    dietaryIU: 200,
+    supplementIU: 400,
+    braceletStatus: "Green",
+  },
+  {
+    timestamp: daysAgo(4),
+    uvIndex: 3.4,
     estimatedSunIU: 260,
     dietaryIU: 150,
     supplementIU: 400,
-    braceletStatus: "Partial",
+    braceletStatus: "Yellow",
   },
   {
-    timestamp: "2026-03-20T18:00:00Z",
-    uvIndex: 5.4,
-    sunlightMinutes: 21,
-    estimatedSunIU: 470,
-    dietaryIU: 200,
+    timestamp: daysAgo(3),
+    uvIndex: 6.1,
+    estimatedSunIU: 610,
+    dietaryIU: 180,
     supplementIU: 400,
-    braceletStatus: "Goal met",
+    braceletStatus: "Green",
   },
   {
-    timestamp: "2026-03-21T18:00:00Z",
-    uvIndex: 2.7,
-    sunlightMinutes: 8,
-    estimatedSunIU: 120,
-    dietaryIU: 300,
+    timestamp: daysAgo(2),
+    uvIndex: 1.0,
+    estimatedSunIU: 60,
+    dietaryIU: 90,
     supplementIU: 400,
-    braceletStatus: "Low",
+    braceletStatus: "Red",
   },
   {
-    timestamp: "2026-03-22T18:00:00Z",
-    uvIndex: 6.0,
-    sunlightMinutes: 24,
-    estimatedSunIU: 520,
+    timestamp: daysAgo(1),
+    uvIndex: 4.7,
+    estimatedSunIU: 420,
+    dietaryIU: 160,
+    supplementIU: 400,
+    braceletStatus: "Yellow",
+  },
+  {
+    // today
+    timestamp: new Date().toISOString(),
+    uvIndex: 4.2,
+    estimatedSunIU: 380,
     dietaryIU: 120,
     supplementIU: 400,
-    braceletStatus: "Goal met",
+    braceletStatus: "Yellow",
   },
-  {
-    timestamp: "2026-03-23T18:00:00Z",
-    uvIndex: 4.8,
-    sunlightMinutes: 16,
-    estimatedSunIU: 340,
-    dietaryIU: 210,
-    supplementIU: 400,
-    braceletStatus: "Partial",
-  },
-  latestDeviceReading,
 ];

@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "lib": [ "DOM", "DOM.Iterable", "ESNext" ],
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "module": "ESNext",
-    "moduleResolution": "Node",
-    "jsx": "react-jsx", // important for React 18
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
@@ -13,6 +13,6 @@
     "isolatedModules": true,
     "noEmit": true
   },
-  "include": [ "src" ],
-  "exclude": [ "node_modules" ]
+  "include": ["src"],
+  "exclude": ["node_modules"]
 }
